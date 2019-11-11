@@ -40,7 +40,7 @@
 
 						<li class="mm-active">
 							<a href="#">
-								<i class="metismenu-icon pe-7s-note2"></i>
+								<i class="metismenu-icon pe-7s-add-user"></i>
 								Add a user
 							</a>
 						</li>
